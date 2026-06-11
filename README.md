@@ -37,6 +37,7 @@
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/mohammed-elkarsh-154164123/)
 - [Dev.to](https://dev.to/mohammedelkarsh)
+- [X (Twitter)](https://x.com/mohammedelkarsh)
 
 ---
 
