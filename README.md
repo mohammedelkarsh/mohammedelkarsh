@@ -36,7 +36,7 @@
 
 ### Open Source
 - [innobrain/markitdown](https://github.com/innobraingmbh/markitdown) — Laravel 13 support ([#33](https://github.com/innobraingmbh/markitdown/pull/33), [v3.5.0](https://github.com/innobraingmbh/markitdown/releases/tag/v3.5.0))
-- Maintainer of [laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) — multi-tenant SaaS starter
+- Maintainer of [laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) — multi-tenant SaaS starter ([v1.5.1](https://github.com/mohammedelkarsh/laravel-tenant-kit/releases/tag/v1.5.1): admin panel access gate)
 
 ---
 
